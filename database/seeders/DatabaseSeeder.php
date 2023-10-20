@@ -84,11 +84,5 @@ class DatabaseSeeder extends Seeder
             ]
         ]);
 
-        // add role to menu.
-        // Menu::find(2)->roles()->save(Role::first());
-        // if ($menu) {
-        //     // If the menu item exists, associate a role with it
-        //     $menu->roles()->save(Role::first());
-        // }
     }
 }
