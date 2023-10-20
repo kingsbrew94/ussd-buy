@@ -62,11 +62,10 @@ class PortalController extends AdminController
     protected function form()
     {
         $form = new Form(new Portal());
-
         $form->text('phoneNumber', __('PhoneNumber'))
         ->rules(function ($form) {
             if (!$id = $form->model()->id) {
-                return 'unique:Portal,phoneNumber';
+                return ['required','unique:Portal,phoneNumber'];
             }
         });
         $form->select('status',__('Status'))->options([
