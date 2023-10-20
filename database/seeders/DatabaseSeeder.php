@@ -72,7 +72,7 @@ class DatabaseSeeder extends Seeder
 
         Role::first()->permissions()->save(Permission::first());
 
-        // add default menus.
+        // add default menu.
         Menu::truncate();
         Menu::insert([
             [
