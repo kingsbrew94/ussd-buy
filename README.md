@@ -28,3 +28,10 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 - Username: `admin`
 - Password: `admin`
 
+## How To Test API
+
+- The directory named `postman-collection` contains two files `USSD_BUY_API_ENV.postman_environment.json` and `USSDBuy-Endpoint.postman_collection.json`
+- `USSD_BUY_API_ENV.postman_environment.json` contains the environment variables of the collection `USSDBuy-Endpoint.postman_collection.json`
+- Import both files in postman.
+- After importing set the collection environment to `USSD_BUY_API_ENV` and test
+
