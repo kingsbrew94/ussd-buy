@@ -47,5 +47,18 @@ Add a new number and whitelist it
     <img src="./diagrams/use-case-diagram.png" alt="Use Case Diagram"/>
 </a>
 
+## UI Screen Shots
+<p align="center">
+    <img src="./screenshots/portal.png" alt="Portal UI"/>
+</a>
+<p align="center">
+    <img src="./screenshots/login.png" alt="Login UI"/>
+</a>
 
-
+## API TEST Screen Shots
+<p align="center">
+    <img src="./screenshots/blocked-test.png" alt="Blocked API Response"/>
+</a>
+<p align="center">
+    <img src="./screenshots/active-test.png" alt="Active API Response"/>
+</a>
