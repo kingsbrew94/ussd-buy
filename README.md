@@ -9,6 +9,7 @@ Add a new number and whitelist it
 
 ## Software Requirements
 - PHP >= 8.1.0 or latest
+- composer latest version
 
 ## How to install software
 - Install composer on your local machine
