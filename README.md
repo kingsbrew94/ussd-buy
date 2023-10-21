@@ -49,10 +49,10 @@ Add a new number and whitelist it
 
 ## UI Screen Shots
 <p align="center">
-    <img src="./screenshots/portal.png" alt="Portal UI"/>
+    <img src="./screenshots/login.png" alt="Login UI"/>
 </a>
 <p align="center">
-    <img src="./screenshots/login.png" alt="Login UI"/>
+    <img src="./screenshots/portal.png" alt="Portal UI"/>
 </a>
 
 ## API TEST Screen Shots
