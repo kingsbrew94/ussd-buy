@@ -7,8 +7,6 @@ Add a new number and whitelist it
 - Delete number
 - Blacklist number
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
 ## Software Requirements
 - PHP >= 8.1.0 or latest
 
@@ -34,4 +32,20 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 - `USSD_BUY_API_ENV.postman_environment.json` contains the environment variables of the collection `USSDBuy-Endpoint.postman_collection.json`
 - Import both files in postman.
 - After importing set the collection environment to `USSD_BUY_API_ENV` and test
+
+## Feature Testing
+- Project contains feature test in the tests/feature/USSDBuyTest.php
+- To run feature test use this command `php artisan test`
+
+## ER DIAGRAM
+<p align="center">
+    <img src="./diagrams/er-diagram.png" alt="ER Diagram"/>
+</a>
+
+## USE CASE DIAGRAM
+<p align="center">
+    <img src="./diagrams/use-case-diagram.png" alt="Use Case Diagram"/>
+</a>
+
+
 
