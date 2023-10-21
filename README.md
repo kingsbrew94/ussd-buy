@@ -62,3 +62,6 @@ Add a new number and whitelist it
 <p align="center">
     <img src="./screenshots/active-test.png" alt="Active API Response"/>
 </a>
+
+## Other Info
+- You can verify project's scrum board using this link [USSD-BUY AGILE BOARD](https://trello.com/invite/b/7offekwM/ATTI1eb78df1a48a837f4239ee5b4b89be9eACEBA54C/ussd-buy)
